@@ -18,16 +18,21 @@
 - [cardanopress_associated_assets](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Actions/CoreAction.php#L126)
 - [cardanopress_associated_asset](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Actions/CoreAction.php#L135)
 - [cardanopress_account_history](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Actions/CoreAction.php#L182)
+- [cardanopress_blockfrost_init](https://github.com/CardanoPress/cardanopress/blob/d65fb6137fd5ccae8753b29284e2ce2d6b735ae1/src/Blockfrost.php#L23)
 
 ### Filters
 
 - [cardanopress_ajax_messages](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Actions/CoreAction.php#L70)
+- [cardanopress_error_messages](https://github.com/CardanoPress/cardanopress/blob/d65fb6137fd5ccae8753b29284e2ce2d6b735ae1/src/Actions/CoreAction.php#L86)
 - [cardanopress_script_messages](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Actions/CoreAction.php#L77)
+- [cardanopress_sanitization_messages](https://github.com/CardanoPress/cardanopress/blob/a288551e823cf8c72399c1ca6353b78e433f1719/src/Actions/Sanitization.php#L31)
+- [cardanopress_sanitization_$field_key](https://github.com/CardanoPress/cardanopress/blob/d65fb6137fd5ccae8753b29284e2ce2d6b735ae1/src/Actions/Sanitization.php#L45)
 
 ## Available Shortcodes
 
 - [cardanopress_option](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Shortcode.php#L33-L47)
 - [cardanopress_template](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Shortcode.php#L49-L75)
+- [cardanopress_template_if](https://github.com/CardanoPress/cardanopress/blob/d65fb6137fd5ccae8753b29284e2ce2d6b735ae1/src/Shortcode.php#L78-L91)
 - [cardanopress_userprofile](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Shortcode.php#L136-L151)
 - [cardanopress_delegationpool](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Shortcode.php#L153-L167)
 - [cardanopress_component_cardanopress](https://github.com/CardanoPress/cardanopress/blob/c17700e427da65efb19673e464a14040006d449a/src/Shortcode.php#L77-L91)
