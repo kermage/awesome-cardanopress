@@ -45,3 +45,7 @@
 - [Additional dropdown menu items inserted before "Disconnect"](https://gist.github.com/kermage/796f154de0f18dd09f8e3df12e112fb9)
 - ["Tipping user" or sending custom payments to a specified address](https://gist.github.com/kermage/e3fd34801a0a06917d2fa5c36516bed3)
 - [Skip listing the ADA Handles in the collection page](https://gist.github.com/kermage/0df6c9c4ec87b539d6c5b924c5925587)
+
+## Extras
+
+- [Allow to easily update to latest GitHub version releases](https://github.com/kermage/cardanopress-edge-user)
