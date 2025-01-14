@@ -44,6 +44,7 @@
 
 - [Additional dropdown menu items inserted before "Disconnect"](https://gist.github.com/kermage/796f154de0f18dd09f8e3df12e112fb9)
 - ["Tipping user" or sending custom payments to a specified address](https://gist.github.com/kermage/e3fd34801a0a06917d2fa5c36516bed3)
+  - [Simplified version with one button tag and one attribute](https://gist.github.com/kermage/bc9ccf85f53d8eb503660d48c3bee6a1)
 - [Skip listing the ADA Handles in the collection page](https://gist.github.com/kermage/0df6c9c4ec87b539d6c5b924c5925587)
 - [Only show specific wallet/s in the modal connect](https://gist.github.com/kermage/22b0cb6206c703d7b2f3eebd66a9174f)
 
